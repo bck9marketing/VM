@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of virtual machines th
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To create a Virtual Machine with Microsoft Azure](https://www.youtube.com)
+- ### [YouTube: How To create a Virtual Machine with Microsoft Azure](https://www.youtube.com/watch?v=fr6GFM0ARFg)
 
 <h2>Environments and Technologies Used</h2>
 
