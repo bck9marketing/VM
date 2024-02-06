@@ -76,42 +76,48 @@ Finally click the blue "Review + create" button.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/402fa1ae-2f22-42cc-b9fd-26201b12a5ac" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Might take a few seconds but once you notice a green "Validation passed" box up top, simply click the blue "Create" button at the bottom again.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/e5630431-21a5-4466-a753-00cce142679d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Again, on this screen simply be patient and wait until you see "Your deployment is complete" at the top. This will take a few minutes as the virtual machine is created. Once thats done, click the blue "Go to resource" button.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/bfce174f-f56a-4f15-8578-151512a9eece" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Your virtual machine is now ready to be used! On this screen you will see all sorts of information regarding your vm. All we need now to access it is the "Public IP address" in the top right. Copy this number to clipboard.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/de4b6ebe-7ae7-4a21-abe9-4eeb7a608da2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+With your vm's IP now copied, go to your windows search bar in the buttom left of your screen and type in "Remote Desktop Connection". Click open the App that will populate towards the top.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/0264c67f-f6a9-46a8-9cc1-9b28a0c8e3ae" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/a394ea16-7313-4c58-837f-3a5386a11874" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/53c6c298-2592-4a0a-bced-d8c078249132" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once open, go ahead and paste in the previously copied IP address. Click connect.<br>
+When prompted insert the credentials we made during the virtual machines creation and click ok.<br>
+- User name: testaccount<br>
+- Password: Testpassword1<br>
+Lastly click yes on the certificate prompt that pops up.
 </p>
 <br />
 
