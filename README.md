@@ -62,17 +62,17 @@ Once that takes to the next page, click the blue button towards the bottom that 
 <img src="https://github.com/bck9marketing/VM/assets/159003800/6e2e1332-cb63-4a27-afa5-e65037dad8d2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/bck9marketing/VM/assets/159003800/4720df13-afb3-4481-98af-2cf5d3cb5de6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<pre>
-Now we can configure our virtual machine. 
-  - For "Resource group" we'll click "Create new" and name it RG-Test.
-  - For "Virtual machine" we'll name it VM-1
-  - For "Image" we're going to be using "Windows 10 Pro, version 22H2"
-  - For "Size" will depend on the options available, for now we'll do Standard_B4ms 4vcpus, 16 GiB memory
-  - For "Username" we'll use "testaccount" and for "Password" we'll use "Testpassword1" for the sake of this tutorial.
-  - Check the box under "Licensing"
-  - Everything else you can leave as is, just take note of your "Region" and always try to use the same one within groups
+<p>
+Now we can configure our virtual machine.<br>
+  - For "Resource group" we'll click "Create new" and name it RG-Test.<br>
+  - For "Virtual machine" we'll name it VM-1<br>
+  - For "Image" we're going to be using "Windows 10 Pro, version 22H2"<br>
+  - For "Size" will depend on the options available, for now we'll do Standard_B4ms 4vcpus, 16 GiB memory<br>
+  - For "Username" we'll use "testaccount" and for "Password" we'll use "Testpassword1" for the sake of this tutorial.<br>
+  - Check the box under "Licensing"<br>
+  - Everything else you can leave as is, just take note of your "Region" and always try to use the same one within groups<br>
 Finally click the blue "Review + create" button.
-</pre>
+</p>
 <br />
 
 <p>
