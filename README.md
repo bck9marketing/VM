@@ -27,8 +27,7 @@ This tutorial outlines the prerequisites and installation of virtual machines th
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![image](https://github.com/bck9marketing/VM/assets/159003800/d38dbf29-c4df-4758-88c4-2013b5d51242)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/bck9marketing/VM/assets/159003800/d38dbf29-c4df-4758-88c4-2013b5d51242" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We're going to start off by going to azure.microsoft.com/en-us/free and clicking "Start free".
