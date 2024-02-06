@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Microsoft Azure Virtual Machine- Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of virtual machines through Microsoft Azure<br />
 
 
 <h2>Video Demonstration</h2>
@@ -14,7 +14,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
@@ -22,11 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Account
+- Windows 10 ( What I use in this tutorial)
 
 <h2>Installation Steps</h2>
 
