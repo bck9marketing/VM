@@ -62,7 +62,7 @@ Once that takes to the next page, click the blue button towards the bottom that 
 <img src="https://github.com/bck9marketing/VM/assets/159003800/6e2e1332-cb63-4a27-afa5-e65037dad8d2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/bck9marketing/VM/assets/159003800/4720df13-afb3-4481-98af-2cf5d3cb5de6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<pre>
 Now we can configure our virtual machine. 
   - For "Resource group" we'll click "Create new" and name it RG-Test.
   - For "Virtual machine" we'll name it VM-1
@@ -72,7 +72,7 @@ Now we can configure our virtual machine.
   - Check the box under "Licensing"
   - Everything else you can leave as is, just take note of your "Region" and always try to use the same one within groups
 Finally click the blue "Review + create" button.
-</p>
+</pre>
 <br />
 
 <p>
